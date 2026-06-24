@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, Saya Bima Triadmaja</h1>
-<h3 align="center">Memiliki minat dalam Web Development & UI/UX Design</h3>
+<h3 align="center">Memiliki minat dalam Web Development</h3>
 
 - 🔭 **Bima Triadmaja**
 
